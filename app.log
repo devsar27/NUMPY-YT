@@ -1,0 +1,14 @@
+2025-11-07 18:04:15 - root - DEBUG - This is a debug message
+2025-11-07 18:04:15 - root - INFO - This is an info message
+2025-11-07 18:04:15 - root - WARNING - This is a warning message
+2025-11-07 18:04:15 - root - ERROR - This is an error message
+2025-11-07 18:04:15 - root - CRITICAL - This is a critical message
+2025-11-07 18:04:54 - root - DEBUG - This is a debug message
+2025-11-07 18:04:54 - root - INFO - This is an info message
+2025-11-07 18:04:54 - root - WARNING - This is a warning message
+2025-11-07 18:04:54 - root - ERROR - This is an error message
+2025-11-07 18:04:54 - root - CRITICAL - This is a critical message
+2025-11-08 00:18:25 - ArithmeticApp - DEBUG - Adding 10 and 5 to get 15
+2025-11-08 00:18:25 - ArithmeticApp - DEBUG - Subtracting 5 from 10 to get 5
+2025-11-08 00:18:25 - ArithmeticApp - DEBUG - Multiplying 10 and 5 to get 50
+2025-11-08 00:18:25 - ArithmeticApp - ERROR - Attempted to divide by zero
