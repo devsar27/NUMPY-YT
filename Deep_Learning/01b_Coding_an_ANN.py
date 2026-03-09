@@ -5,7 +5,7 @@
 # Inputs:
 # 1. Hours studied (e.g., 5 hours)
 # 2. Hours slept (e.g., 8 hours)
-inputs = [5.0, 8.0]
+inputs = [1.0, 2.0]
 
 # --- HIDDEN LAYER ---
 # A Neural Network has "Hidden Layers" which are just groups of Perceptrons.
